@@ -1,14 +1,12 @@
 # project1
--------
 Team Members
 ---
-Ahmed Ben Haj Yahia,
+- Ahmed Ben Haj Yahia,
 
-Nour Ghribi,
+- Nour Ghribi,
 
-Kushagra Shah
+- Kushagra Shah
 
----
 **Goal:**
 
 The Higgs boson is an elementary particle in the Standard Model of physics which explains why other particles have mass. We are given a vector of features representing the decay signature of a collision event, and we want to predict whether this event was signal (a Higgs boson) or background (something else). To do this, we use different binary classification techniques and compare the results.
