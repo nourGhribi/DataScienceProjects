@@ -1,3 +1,3 @@
 # Data Science at EPFL
-projects and homeworks
----
+
+Various exercises, homeworks and project done during my M.Sc. of Data Science.
