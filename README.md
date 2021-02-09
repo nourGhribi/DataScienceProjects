@@ -1,1 +1,3 @@
-# Data Science at EPFL, projects and homeworks
+# Data Science at EPFL
+projects and homeworks
+---
