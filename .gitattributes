@@ -1,3 +1,6 @@
 ADA/HW1/data/articles.tsv.gz filter=lfs diff=lfs merge=lfs -text
 ADA/HW1/data/mapping.pickle filter=lfs diff=lfs merge=lfs -text
 ADA/HW1/data/topics.jsonl.gz filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]Projects/HiggsBosonDetection/data/train.csv filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]Projects/HiggsBosonDetection/data/sample-submission.csv filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]Projects/HiggsBosonDetection/data/test.csv filter=lfs diff=lfs merge=lfs -text
